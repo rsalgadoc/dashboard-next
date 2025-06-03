@@ -9,7 +9,7 @@ import Blog from "@/app/(DashboardLayout)/components/dashboard/Blog";
 
 const BlogData = [
   {
-    image: "/images/bg/bg1.jpg",
+    image: "/dashboard-next/images/bg/bg1.jpg",
     title: "This is simple blog",
     subtitle: "2 comments, 1 Like",
     description:
@@ -17,7 +17,7 @@ const BlogData = [
     btnbg: "primary",
   },
   {
-    image: "/images/bg/bg2.jpg",
+    image: "/dashboard-next/images/bg/bg2.jpg",
     title: "Lets be simple blog",
     subtitle: "2 comments, 1 Like",
     description:
@@ -25,7 +25,7 @@ const BlogData = [
     btnbg: "primary",
   },
   {
-    image: "/images/bg/bg3.jpg",
+    image: "/dashboard-next/images/bg/bg3.jpg",
     title: "Don't Lamp blog",
     subtitle: "2 comments, 1 Like",
     description:
@@ -33,7 +33,7 @@ const BlogData = [
     btnbg: "primary",
   },
   {
-    image: "/images/bg/bg4.jpg",
+    image: "/dashboard-next/images/bg/bg4.jpg",
     title: "Simple is beautiful",
     subtitle: "2 comments, 1 Like",
     description:

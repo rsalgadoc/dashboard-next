@@ -78,7 +78,7 @@ const Header = ({ showMobmenu }) => {
           <DropdownToggle color="primary">
             <div style={{ lineHeight: "0px" }}>
               <Image
-                src="/images/users/user1.jpg"
+                src="/dashboard-next/images/users/user1.jpg"
                 alt="profile"
                 className="rounded-circle"
                 width="30"

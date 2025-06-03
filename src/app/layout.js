@@ -10,7 +10,7 @@ export default function RootLayout({
       <Head>
         <title>Xtreme Free Next Js Dashboard</title>
         <meta name="description" content="Xtreme Free Next Js Dashboard" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/dashboard-next/favicon.ico" />
       </Head>
       <body>{children}</body>
     </html>

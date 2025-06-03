@@ -51,3 +51,22 @@ npm i sass@1.77.6
 new-dashboard
 
 npx create-next-app@latest new-dashboard
+
+
+# Docker 
+
+```bash
+docker build -t rsalgadoc/dashboard-next .
+```
+
+```bash
+docker push rsalgadoc/dashboard-next
+```
+
+```bash
+docker pull rsalgadoc/dashboard-next
+```
+
+```bash
+docker run -d --name dashboard-next -p 3004:3000 --restart always rsalgadoc/dashboard-next
+```

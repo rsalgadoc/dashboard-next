@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'standalone',
+  basePath: '/dashboard-next',
+  trailingSlash: true,
+  assetPrefix: '/dashboard-next',
 };
 
 export default nextConfig;
