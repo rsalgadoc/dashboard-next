@@ -228,9 +228,9 @@ const Cards = () => {
                 alt="Card image cap"
                 src="/images/bg/bg1.jpg"
                 top="true"
-                className="w-100"
-                height="210"
-                width="100"
+                className="w-100 img-fluid"
+                height="413"
+                width="780"
               />
               <CardBody>
                 <CardTitle tag="h5">Card title</CardTitle>
@@ -250,9 +250,9 @@ const Cards = () => {
                 alt="Card image cap"
                 src="/images/bg/bg2.jpg"
                 top="true"
-                className="w-100"
-                height="210"
-                width="100"
+                className="w-100 img-fluid"
+                height="413"
+                width="780"
               />
               <CardBody>
                 <CardTitle tag="h5">Card title</CardTitle>
@@ -271,9 +271,9 @@ const Cards = () => {
                 alt="Card image cap"
                 src="/images/bg/bg3.jpg"
                 top="true"
-                className="w-100"
-                height="192"
-                width="75"
+                className="w-100 img-fluid"
+                height="413"
+                width="780"
               />
               <CardBody>
                 <CardTitle tag="h5">Card title</CardTitle>

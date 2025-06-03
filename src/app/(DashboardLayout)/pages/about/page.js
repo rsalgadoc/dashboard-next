@@ -97,22 +97,17 @@ const About = () => {
         {/* --------------------------------------------------------------------------------*/}
         <Card>
           <CardBody>
-            <h4>Xtreme Nextjs Admin Pro Version</h4>
+            <h4>Xtreme Nextjs Admin</h4>
             <p>
               5 premium and highly customizable demo variations included in the
               package, with React Router 6, Redux Toolkit, Axios nd much more...
             </p>
-            <Image src="/images/background/icons2.jpg" alt="icons" className="img-fluid" fill={true} />
+            <Image src="/images/background/icons2.jpg" alt="icons" className="img-fluid" 
+            width="1256" height="160"/>
             <Row>
               <Col lg="8">
                 <div className="mt-3">
-                  <Button
-                    color="primary"
-                    href="https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard"
-                    target="_blank"
-                  >
-                    Buy Now
-                  </Button>
+
                 </div>
               </Col>
             </Row>

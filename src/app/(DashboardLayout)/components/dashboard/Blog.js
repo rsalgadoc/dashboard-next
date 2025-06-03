@@ -13,7 +13,7 @@ import Image from "next/image";
 const Blog = ({ image, title, subtitle, text, color }) => {
   return (
     <Card>
-      <Image alt="Card image cap" src={image} className="w-100 h-100" width="192" height="75"/>
+      <Image alt="Card image cap" src={image} className="w-100 h-100 img-fluid" width="780" height="413"/>
       <CardBody className="p-4">
         <CardTitle tag="h5">{title}</CardTitle>
         <CardSubtitle>{subtitle}</CardSubtitle>

@@ -29,7 +29,7 @@ const Header = ({ showMobmenu }) => {
     <Navbar color="primary" dark expand="md">
       <div className="d-flex align-items-center">
         <NavbarBrand href="/" className="d-lg-none">
-          <Image src="/images/logos/xtremelogowhite.svg" alt="logo" width="43" height="28" />
+
         </NavbarBrand>
         <Button color="primary" className="d-lg-none" onClick={showMobmenu}>
           <i className="bi bi-list"></i>
