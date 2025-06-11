@@ -4,7 +4,7 @@ import { Card, CardBody, CardTitle, CardSubtitle, Table } from "reactstrap";
 
 const tableData = [
   {
-    avatar: "/dashboard-next/images/users/user1.jpg",
+    avatar: "/images/users/user1.jpg",
     name: "Hanna Gover",
     email: "hgover@gmail.com",
     project: "Flexy React",
@@ -13,7 +13,7 @@ const tableData = [
     budget: "95K",
   },
   {
-    avatar: "/dashboard-next/images/users/user2.jpg",
+    avatar: "/images/users/user2.jpg",
     name: "Hanna Gover",
     email: "hgover@gmail.com",
     project: "Lading pro React",
@@ -22,7 +22,7 @@ const tableData = [
     budget: "95K",
   },
   {
-    avatar: "/dashboard-next/images/users/user3.jpg",
+    avatar: "/images/users/user3.jpg",
     name: "Hanna Gover",
     email: "hgover@gmail.com",
     project: "Elite React",
@@ -31,7 +31,7 @@ const tableData = [
     budget: "95K",
   },
   {
-    avatar: "/dashboard-next/images/users/user4.jpg",
+    avatar: "/images/users/user4.jpg",
     name: "Hanna Gover",
     email: "hgover@gmail.com",
     project: "Flexy React",
@@ -40,7 +40,7 @@ const tableData = [
     budget: "95K",
   },
   {
-    avatar: "/dashboard-next/images/users/user5.jpg",
+    avatar: "/images/users/user5.jpg",
     name: "Hanna Gover",
     email: "hgover@gmail.com",
     project: "Ample React",

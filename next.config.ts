@@ -1,10 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'standalone',
-  basePath: '/dashboard-next',
-  trailingSlash: true,
-  assetPrefix: '/dashboard-next',
+  output: 'export',
+  distDir: 'out',
+  reactStrictMode: true,
+  images: { unoptimized: true }
 };
 
 export default nextConfig;
